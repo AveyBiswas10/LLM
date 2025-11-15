@@ -1,0 +1,4 @@
+gdown
+nbconvert
+jupyter
+# Add other dependencies used by the notebook (e.g. pandas, numpy, torch, transformers, scikit-learn)
